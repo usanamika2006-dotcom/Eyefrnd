@@ -6,16 +6,15 @@
 
 ### Team Name
 
-[Your Team Name]
+[coffee and code]
 
 ### Team Members
 
-* Member 1: [Your Name] – [Your College]
+* Member 1: [Anamika us] – [Ansar womens collage]
 
 ### Hosted Project Link
 
 [http://localhost:5000](http://localhost:5000)
-(or add deployed link here)
 
 ---
 
@@ -219,21 +218,6 @@ or
 
 ---
 
-# Demo
-
-### Video
-
-[Add YouTube / Drive Link Here]
-
-Video demonstrates:
-
-* Live detection
-* Dirt detection accuracy
-* Clean face compliment
-* Voice command stopping system
-
----
-
 # AI Tools Used (Transparency)
 
 Tool Used: ChatGPT
@@ -260,7 +244,7 @@ Human Contributions:
 
 # Team Contributions
 
-* [Your Name]:
+* [Anamika us]:
 
   * OpenCV detection logic
   * Flask backend
